@@ -1,6 +1,17 @@
 # GTK4 Template for Zig
 For `Linux` and `MacOS`.
 
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="gtkzig1.png" alt="screenshot1">
+    </td>
+    <td width="50%" align="center">
+      <img src="gtkzig2.png" alt="screenshot2">
+    </td>
+  </tr>
+</table>
+
 # Deployment Guide
 If building from source get prerequisites, then run `zig build run`.
 
